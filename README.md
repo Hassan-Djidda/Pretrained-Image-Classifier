@@ -1,4 +1,4 @@
-##Image Classifier to Identify Dog Breeds
+Image Classifier to Identify Dog Breeds
 
 This project is an image classifier that can identify different breeds of dogs using deep learning techniques. The classifier is based on a convolutional neural network (CNN) that has been trained on a large dataset of dog images.
 
